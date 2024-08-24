@@ -3,6 +3,9 @@
 ## Introduction
 Efficiently manage and analyze YouTube video data, focusing on category-based trends and security. Streamline workflows for valuable insights.
 
+## Architecture Diagram
+<img src="architecture.jpeg">
+
 ## Project Goals
 #### Data Ingestion — Develop a mechanism to ingest data from various sources.
 #### ETL System — Transform raw data into a suitable format for use.
@@ -23,9 +26,6 @@ Efficiently manage and analyze YouTube video data, focusing on category-based tr
 Kaggle Dataset: Daily trending YouTube videos data across multiple regions. Includes video details, views, likes, dislikes, comments, and category IDs. CSV format for structured data.
 
 https://www.kaggle.com/datasets/datasnaek/youtube-new
-
-## Architecture Diagram
-<img src="architecture.jpeg">
 
 ## Guidance from:
 https://youtu.be/yZKJFKu49Dk
